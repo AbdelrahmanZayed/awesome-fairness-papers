@@ -280,6 +280,8 @@ Fairness in Legal Text Processing](https://arxiv.org/pdf/2203.07228.pdf). Ilias 
 33. [Don’t Just Clean It, Proxy Clean It: Mitigating Bias by Proxy in Pre-Trained Models](https://aclanthology.org/2022.findings-emnlp.372/). Swetasudha Panda, Ari Kobren, Michael Wick, Qinlan Shen. EMNLP 2022
 34. [To Prefer or to Choose? Generating Agency and Power Counterfactuals Jointly for Gender Bias Mitigation](https://aclanthology.org/2022.nlpcss-1.6/). Maja Stahl, Maximilian Spliethöver, Henning Wachsmuth. EMNLP 2022
 35. [A Robust Bias Mitigation Procedure Based on the Stereotype Content Model](https://aclanthology.org/2022.nlpcss-1.23/). Eddie Ungless, Amy Rafferty, Hrichika Nag, Björn Ross. EMNLP 2022
+36. [Deep Learning on a Healthy Data Diet: Finding Important Examples for Fairness](https://arxiv.org/abs/2211.11109). Abdelrahman Zayed, Prasanna Parthasarathi, Goncalo Mordido, Hamid Palangi, Samira Shabanian, Sarath Chandar. AAAI 2023
+38. [Fairness-Aware Structured Pruning in Transformers](https://arxiv.org/abs/2312.15398). Abdelrahman Zayed, Goncalo Mordido, Samira Shabanian, Ioana Baldini, Sarath Chandar. AAAI 2024
 
 
 
